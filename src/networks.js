@@ -29,10 +29,10 @@ const komodo = {
   coin: 'zec'
 }
 
-const utrum = Object.assign({}, komodo_nonsapling);
-utrum.messagePrefix = '\x18Utrum Signed Message:\n';
+const equaliser = Object.assign({}, komodo_nonsapling);
+equaliser.messagePrefix = '\x18Utrum Signed Message:\n';
 
 module.exports = {
   komodo,
-  utrum
+  equaliser
 }
