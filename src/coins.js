@@ -33,9 +33,9 @@ const coins = [
     ],
   },
   {
-    ticker: 'OOT',
-    name: 'utrum',
-    network: bitcoinjs.networks.utrum,
+    ticker: 'EQL',
+    name: 'equaliser',
+    network: bitcoinjs.networks.equaliser,
     path: "m/44'/141'/0'",
     fee: 0,
     explorer: 'https://explorer.utrum.io/',
