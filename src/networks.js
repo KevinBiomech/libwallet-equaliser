@@ -30,7 +30,7 @@ const komodo = {
 }
 
 const utrum = Object.assign({}, komodo_nonsapling);
-utrum.messagePrefix = '\x18Utrum Signed Message:\n';
+utrum.messagePrefix = '\x18equaliser Signed Message:\n';
 
 module.exports = {
   komodo,
