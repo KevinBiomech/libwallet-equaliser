@@ -1,5 +1,5 @@
 {
-  "name": "libwallet-utrum",
+  "name": "libwallet-equaliser",
   "version": "4.0.0",
   "description": "A MultiCrypto Wallet Management Library",
   "main": "index.js",
