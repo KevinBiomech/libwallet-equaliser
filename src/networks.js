@@ -34,5 +34,5 @@ utrum.messagePrefix = '\x18Utrum Signed Message:\n';
 
 module.exports = {
   komodo,
-  utrum
+  equaliser
 }
